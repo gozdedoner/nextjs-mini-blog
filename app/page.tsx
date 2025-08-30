@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getAllPosts } from "@/lib/posts";
+import { getAllPosts } from "../lib/posts"; // relative import
 
 export default function Home() {
   const posts = getAllPosts();

@@ -1,4 +1,4 @@
-import { getAllSlugs, getPostBySlug } from "@/lib/posts";
+import { getAllSlugs, getPostBySlug } from "../../../lib/posts"; // relative import
 import { notFound } from "next/navigation";
 
 export const dynamicParams = false;
