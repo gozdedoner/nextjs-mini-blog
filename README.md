@@ -18,4 +18,4 @@ npm run build && npm start
 ```
 
 ## Deploy
-Push to GitHub and import the repo on Vercel.
+https://nextjs-mini-blog-4k48.vercel.app/
